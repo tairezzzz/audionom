@@ -1,0 +1,35 @@
+{
+  "name": "reveal.js",
+  "main": [
+    "js/reveal.js",
+    "css/reveal.css"
+  ],
+  "homepage": "http://lab.hakim.se/reveal-js/",
+  "license": "MIT",
+  "description": "The HTML Presentation Framework",
+  "authors": [
+    "Hakim El Hattab <hakim.elhattab@gmail.com>"
+  ],
+  "dependencies": {
+    "headjs": "~1.0.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hakimel/reveal.js.git"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test"
+  ],
+  "_release": "4c842db640",
+  "_resolution": {
+    "type": "commit",
+    "commit": "4c842db640b08cc047ef1f04a32442143c187e64"
+  },
+  "_source": "https://github.com/kkaabbaa/reveal.js.git",
+  "_target": "4c842db640b08cc047ef1f04a32442143c187e64",
+  "_originalSource": "https://github.com/kkaabbaa/reveal.js.git",
+  "_direct": true
+}
